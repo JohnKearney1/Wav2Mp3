@@ -1,7 +1,6 @@
-# WAVtoMP3
+# WAV2MP3
 
 Python script to quickly convert and compress WAV audio to MP3 format without audible quality loss.
-
 Requires FFmpeg.
 
 # Usage
